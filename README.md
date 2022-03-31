@@ -5,7 +5,7 @@
 
 Вот жилой массив:
 
-<img align="center" width="350" height="350" src="https://img-fotki.yandex.ru/get/199051/87086627.23/0_1ceadf_5c2aea6e_XL.jpg">
+<img align="center" width="400" height="350" src="https://img-fotki.yandex.ru/get/199051/87086627.23/0_1ceadf_5c2aea6e_XL.jpg">
 
 Вот дубовый массив:
 
