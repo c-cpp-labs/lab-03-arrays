@@ -21,8 +21,8 @@
 
 [Массивы](http://cppstudio.com/post/389/) <br/>
 [Массивы](https://ravesli.com/urok-74-massivy-chast-1/) <br/>
-[Статические массивы](https://ravesli.com/urok-75-massivy-chast-2/) <br/>
-[Циклы и массивы](https://ravesli.com/urok-76-massivy-i-tsikly/) <br/>
+[Статические массивы](https://ravesli.com/urok-75-massivy-chast-2/) (нужен VPN)<br/>
+[Циклы и массивы](https://ravesli.com/urok-76-massivy-i-tsikly/) (нужен VPN)<br/>
 
 ## Бонус
 
