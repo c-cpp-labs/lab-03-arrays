@@ -17,6 +17,7 @@
 
 <img align="center" width="400" height="400" src="https://sun9-23.userapi.com/impf/m1NKec8oWbcFCaZVTY9pA0Df7cMTUJeYWsMBpQ/PRTPhTZAxpc.jpg?size=600x516&quality=96&sign=7653ca48c780a49d3106e3dcbbdaa129&type=album">
 
+<hr>
 
 ### Инструкция
 В директории `sources` заготовлены несколько файлов. В них есть шаблоны для заданий. Реализуйте функции в соответствии с заданием.
