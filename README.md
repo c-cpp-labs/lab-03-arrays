@@ -4,6 +4,9 @@
 
 Говоря о массивах можно представить баночку свежезаконсервированных маслят. Каждый из них расположен на определённом месте в банке и представляет собой что-то конкретное - один цельный маслёнок.
 
+<img align="center" width="400" height="370" src="https://sun9-77.userapi.com/impf/xeAP4haqrtAiuyvyBiN1ZzacqvXct783c9l1Vg/abizoFf-Fko.jpg?size=750x750&quality=96&sign=25b41d075a3a0516a36fa9216a0a4cda&type=album">
+
+
 [Массивы](http://cppstudio.com/post/389/) <br/>
 [Массивы](https://ravesli.com/urok-74-massivy-chast-1/) <br/>
 [Статические массивы](https://ravesli.com/urok-75-massivy-chast-2/) <br/>
